@@ -1,0 +1,5 @@
+// packages/app/.babelrc
+
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
